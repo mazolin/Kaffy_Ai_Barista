@@ -4,7 +4,7 @@
 
 ## 🎯 The Problem
 Starbucks has a vast menu, and customers often feel overwhelmed or stick to the same order. Finding specific nutritional information (like sugar content) or discovering new combinations takes time.
-
+ 
 ## 💡 The Solution
 Kaffy acts as a digital barista living inside a floating button in the app. Users can say:
 > *"I need something to wake me up, but low sugar."*
